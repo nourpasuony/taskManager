@@ -1,5 +1,5 @@
 # Task Management System API
-## تم الانشاء مجهود شخصى مع استتخدام الAI فى كتابة الملاحظا وملف الREADME FILE للتسهيل اكثر 
+## تم الانشاء بمجهود شخصى دون استخدام الai الا فى انشاء ملفا readme file 
 ## 📋 نظرة عامة على المشروع
 
 نظام إدارة المهام (Task Management System) هو تطبيق backend مكتوب بـ **TypeScript** و **Express.js**، يوفر:
